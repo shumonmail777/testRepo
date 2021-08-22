@@ -39,7 +39,7 @@ public class SeleniumTest {
 		 System.out.println("TiTLE mATCHES: TEST PASSED");
 		 
 		 //driver.close();
-		// driver.quit();
+		// driver.quit(); // THERE IS A BUG ABOUT THIS ONE IN SELENIUM 4.00 VERSION
 		
 		
 			 
